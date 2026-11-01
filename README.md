@@ -4,7 +4,7 @@
 
 ## Hello World! I'm Firjatullah
 
-### 🎓 Computer Engineering student | 🐍 Exploring Python | ⚡ Industrial Electronics
+### 🎓 Computer Engineering student | Embedded System | Industrial Electronics
 
 </div>
 
