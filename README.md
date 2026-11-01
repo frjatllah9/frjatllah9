@@ -1,4 +1,6 @@
-## Hi there 👋
+https://media.giphy.com/media/8N2dNS4dk1OPaWqnRW/giphy.gif
+
+# Hi there 👋
 
 <!--
 **frjatllah9/frjatllah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
