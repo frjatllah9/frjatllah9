@@ -1,8 +1,15 @@
 
-<h1 align="center">Hello World! I'm Firjatullah</h1>
 
-<h2 align="center">💻 Computer Engineering Student | Embedded System | Industrial Electronics</h2>
+<div align="center">
 
+### Hello World! I'm Firjatullah
+
+<br>
+<hr>
+
+🎓 Computer Engineering student | 🐍 Exploring Python | ⚡ Industrial Electronics
+
+</div>
 ### About Me
 🎓 Computer Engineering student — currently exploring Python Basic.<br>⚡ Industrial Electronics background — experienced in designing control systems like 3-phase motors and pneumatics.<br>🖥 Always experimenting with circuit design (Eagle, Proteus, Fusion360, KiCAD, Altium Designer), microcontrollers (ATmega16, ESP32, Arduino, STM32), and hardware assembly.
 
