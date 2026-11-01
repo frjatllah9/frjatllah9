@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Hello World! I'm Firjatullah
+## Hello World! I'm Firjatullah
 
-## 🎓 Computer Engineering student | 🐍 Exploring Python | ⚡ Industrial Electronics
+### 🎓 Computer Engineering student | 🐍 Exploring Python | ⚡ Industrial Electronics
 
 </div>
 
