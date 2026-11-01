@@ -1,4 +1,4 @@
-https://media.giphy.com/media/8N2dNS4dk1OPaWqnRW/giphy.gif
+
 
 # Hi there 👋
 
