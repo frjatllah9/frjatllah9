@@ -18,19 +18,6 @@
 </div>
 
 ### About
-identity:
-  name: Firjatullah Surya
-  role: Full-Stack Web Developer
-  portfolio: https://ryhar.my.id
-  education:
-    major: Sistem Informasi
-    institution: Universitas Multi Data Palembang
-    status: Undergraduate Student
-  focus_areas:
-    - Web Applications (Next.js, React, TypeScript)
-    - Backend Architecture & RESTful APIs (Node.js, Express, Prisma)
-    - Bot Services & Automation (WhatsApp Engines, API Integrations)
-    
 🎓 Computer Engineering student — currently exploring Python Basic.<br>⚡ Industrial Electronics background — experienced in designing control systems like 3-phase motors and pneumatics.<br>🖥 Always experimenting with circuit design (Eagle, Proteus, Fusion360, KiCAD, Altium Designer), microcontrollers (ATmega16, ESP32, Arduino, STM32), and hardware assembly.
 
 
