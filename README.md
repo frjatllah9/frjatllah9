@@ -1,4 +1,9 @@
-![Animated Profile](https://media.giphy.com/media/8N2dNS4dk1OPaWqnRW/giphy.gif)
+<p align="center">
+  <video src="URL_VIDEO_KAMU"
+         width="800"
+         controls>
+  </video>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
