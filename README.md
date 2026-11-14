@@ -1,10 +1,3 @@
-<p align="center">
-  <b>KOI Fish Animation</b>
-</p>
-
-https://github.com/user-attachments/assets/6e1b54bc-403c-46e9-8d70-ca0e14b07706
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
