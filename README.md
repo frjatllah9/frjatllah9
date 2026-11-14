@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="URL_VIDEO_KAMU"
+  <video src="[URL_VIDEO_KAMU](https://github.com/frjatllah9/frjatllah9/blob/main/KOI%20Fish!%20Sachiro%20(Animated%20wallpaper).mp4)"
          width="800"
          controls>
   </video>
