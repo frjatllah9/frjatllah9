@@ -1,9 +1,8 @@
 <p align="center">
-  <video src="[URL_VIDEO_KAMU](https://github.com/frjatllah9/frjatllah9/blob/main/KOI%20Fish!%20Sachiro%20(Animated%20wallpaper).mp4)"
-         width="800"
-         controls>
-  </video>
+  <b>KOI Fish Animation</b>
 </p>
+
+https://github.com/user-attachments/assets/ID-VIDEO-KAMU
 
 <p align="center">
   <a href="https://git.io/typing-svg">
