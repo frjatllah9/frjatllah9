@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://i.giphy.com/media/8N2dNS4dk1OPaWqnRW/giphy.gif"
-    width="100%"
-    alt="Animated Profile Banner"
-  />
-</p>
+![Animated Profile](https://media.giphy.com/media/8N2dNS4dk1OPaWqnRW/giphy.gif)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
