@@ -1,3 +1,7 @@
+<div align="center">
+  
+# Hello World! I'm Firjatullah
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,9 +12,7 @@
   </a>
 </p>
 
-<div align="center">
-  
-## Hello World! I'm Firjatullah
+
 
 ### 🎓 Computer Engineering student |  🛠️ Embedded System | 🔧 Industrial Electronics |  🔒 Basic Cybersecurity
 </div>
