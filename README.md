@@ -4,7 +4,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+++Embedded+Systems+%26+Electronics;+++Software+%26+Web+Development;+++Industrial+Automation+%26+Control)](https://git.io/typing-svg)
+++++[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+++Embedded+Systems+%26+Electronics;+++Software+%26+Web+Development;+++Industrial+Automation+%26+Control)](https://git.io/typing-svg)
 
 ## Hello World! I'm Firjatullah
 
